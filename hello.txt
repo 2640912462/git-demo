@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-aaa 256 
-bbb 123
-=======
 aaa bb
 bbb aa
->>>>>>> master
+
+a
